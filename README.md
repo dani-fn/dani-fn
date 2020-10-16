@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineering Studant!!
 
-- 🔭 I’m currently learning everything
+- 🔭 I’m currently learning everything to become a Full Stack developer
 - 🌐 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to ride my bike
 
