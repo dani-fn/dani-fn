@@ -1,4 +1,4 @@
-### Olá, Hi there, I'm Daniel 👋
+### Hi there, I'm Daniel 👋
 
 ## I'm a Software Engineering Studant!!
 
